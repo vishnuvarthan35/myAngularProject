@@ -137,3 +137,8 @@ border-radius: 5px;
     background: rgba(90, 128, 0, 0.735);
 
 }
+.deleteButtonColorChange{
+    
+    background: red
+
+}
