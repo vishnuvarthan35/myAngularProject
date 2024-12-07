@@ -8,8 +8,8 @@ import { Component, OnInit } from '@angular/core';
 export class CreateComponent implements OnInit {
   newEmployeeClicked = false;
   employees = [
-    { name: 'Vishnu', position: 'Associate DevOps Engineer' },
-    { name: 'Santhosh', position: 'DevOps Engineer' }
+    { name: 'Mike', position: 'President' },
+    { name: 'Mat', position: 'CEO' }
   ]
   color: any;
   constructor() { }
